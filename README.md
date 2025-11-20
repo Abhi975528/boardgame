@@ -4,6 +4,7 @@ A full-stack web platform for exploring board games and sharing reviews. Visitor
 
 🚀 Features
 
+
 🌐 Full-Stack Architecture
 
 
@@ -25,6 +26,7 @@ Users: add new games and submit reviews.
 
 Managers: full review management—edit and delete reviews.
 
+
 🛠 Application Capabilities
 
 
@@ -38,11 +40,14 @@ Reusable Thymeleaf Fragments for shared layout elements (header, footer, navigat
 
 Organized package structure following Spring MVC best practices.
 
+
 🧪 Testing
 
 
 Unit testing implemented with JUnit to ensure reliability.
 
+
 ☁️ Deployment
+
 
 Application deployed and tested on an AWS EC2 instance.
